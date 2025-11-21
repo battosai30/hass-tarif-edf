@@ -50,10 +50,16 @@ Copy the `tarif_edf` folder from latest release to the `custom_components` folde
 
 ## Usage
 Cost is "linked" to an energy consumption.
+
 You have to add (or edit one) :
+
 <img width="623" height="624" alt="image" src="https://github.com/user-attachments/assets/6ede4e1a-8e4d-4c44-b8ba-bf4804452282" />
 
+
+
 Select your energy sensor, and link it to the price sensor (choose the right one ! "Tarif actuel" should be the good one)
+
 <img width="711" height="1193" alt="image" src="https://github.com/user-attachments/assets/b56c1123-32ff-4949-9f65-c782aff218b5" />
+
 
 ⚠️⚠️Warning : Linky integration doesn't work with this integration, you MUST have a realtime consumption/production sensor.
